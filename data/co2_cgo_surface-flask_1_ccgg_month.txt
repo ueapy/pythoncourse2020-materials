@@ -7,7 +7,7 @@
 # comment: will lead to greater understanding and new scientific insights.
 # comment: The availability of these data does not constitute publication
 # comment: of the data.  NOAA relies on the ethics and integrity of the user to
-# comment: insure that ESRL receives fair credit for their work.  If the data 
+# comment: ensure that ESRL receives fair credit for their work.  If the data 
 # comment: are obtained for potential use in a publication or presentation, 
 # comment: ESRL should be informed at the outset of the nature of this work.  
 # comment: If the ESRL data are essential to the work, or if an important 
@@ -15,7 +15,7 @@
 # comment: may be appropriate.  This should be discussed at an early stage in
 # comment: the work.  Manuscripts using the ESRL data should be sent to ESRL
 # comment: for review before they are submitted for publication so we can
-# comment: insure that the quality and limitations of the data are accurately
+# comment: ensure that the quality and limitations of the data are accurately
 # comment: represented.
 # comment:  
 # comment: Every effort is made to produce the most accurate and precise
@@ -58,7 +58,7 @@
 # description_project-abbr: ccg_surface
 # description_strategy-abbr: flask
 # description_analysis-constraints: flag:..%
-# description_creation-time: 2017-07-28 12:39:36
+# description_creation-time: 2019-08-28 09:47:11
 # comment:
 # comment:  ************ DATA DOCUMENTATION ***************
 # comment:
@@ -66,7 +66,7 @@
 # comment: appropriate directory folder at ftp://aftp.cmdl.noaa.gov/data/trace_gases/.
 # comment:
 # data_fields: site year month value
-CGO 1984  4   341.63
+CGO 1984  4   341.64
 CGO 1984  5   341.73
 CGO 1984  6   342.00
 CGO 1984  7   342.81
@@ -86,7 +86,7 @@ CGO 1985  8   344.53
 CGO 1985  9   344.69
 CGO 1985 10   344.53
 CGO 1985 11   344.38
-CGO 1985 12   344.26
+CGO 1985 12   344.25
 CGO 1986  1   344.15
 CGO 1986  2   344.25
 CGO 1986  3   344.30
@@ -95,11 +95,11 @@ CGO 1986  5   344.39
 CGO 1986  6   344.87
 CGO 1986  7   345.25
 CGO 1986  8   345.35
-CGO 1986  9   345.52
+CGO 1986  9   345.51
 CGO 1986 10   345.95
 CGO 1986 11   346.07
 CGO 1986 12   345.77
-CGO 1987  1   345.41
+CGO 1987  1   345.42
 CGO 1987  2   345.39
 CGO 1987  3   345.61
 CGO 1987  4   345.90
@@ -114,7 +114,7 @@ CGO 1987 12   347.48
 CGO 1988  1   347.73
 CGO 1988  2   348.24
 CGO 1988  3   348.30
-CGO 1988  4   348.25
+CGO 1988  4   348.26
 CGO 1988  5   348.54
 CGO 1988  6   348.93
 CGO 1988  7   349.43
@@ -127,8 +127,8 @@ CGO 1989  1   349.83
 CGO 1989  2   350.02
 CGO 1989  3   350.09
 CGO 1989  4   350.04
-CGO 1989  5   350.32
-CGO 1989  6   350.67
+CGO 1989  5   350.31
+CGO 1989  6   350.66
 CGO 1989  7   350.49
 CGO 1989  8   350.83
 CGO 1989  9   351.24
@@ -137,10 +137,10 @@ CGO 1989 11   350.97
 CGO 1989 12   350.91
 CGO 1990  1   350.88
 CGO 1990  2   350.76
-CGO 1990  3   350.72
+CGO 1990  3   350.71
 CGO 1990  4   351.16
 CGO 1990  5   351.43
-CGO 1990  6   351.63
+CGO 1990  6   351.62
 CGO 1990  7   352.06
 CGO 1990  8   352.48
 CGO 1990  9   352.65
@@ -156,9 +156,9 @@ CGO 1991  6   352.89
 CGO 1991  7   353.25
 CGO 1991  8   353.59
 CGO 1991  9   353.55
-CGO 1991 10   353.09
-CGO 1991 11   353.04
-CGO 1991 12   352.96
+CGO 1991 10   353.10
+CGO 1991 11   353.03
+CGO 1991 12   352.95
 CGO 1992  1   352.72
 CGO 1992  2   352.64
 CGO 1992  3   352.62
@@ -168,10 +168,10 @@ CGO 1992  6   353.96
 CGO 1992  7   354.31
 CGO 1992  8   354.67
 CGO 1992  9   354.81
-CGO 1992 10   354.70
+CGO 1992 10   354.71
 CGO 1992 11   354.42
 CGO 1992 12   354.20
-CGO 1993  1   353.85
+CGO 1993  1   353.86
 CGO 1993  2   353.87
 CGO 1993  3   354.14
 CGO 1993  4   354.05
@@ -179,7 +179,7 @@ CGO 1993  5   354.05
 CGO 1993  6   354.46
 CGO 1993  7   355.03
 CGO 1993  8   355.62
-CGO 1993  9   355.81
+CGO 1993  9   355.80
 CGO 1993 10   355.63
 CGO 1993 11   355.49
 CGO 1993 12   355.34
@@ -192,13 +192,13 @@ CGO 1994  6   355.89
 CGO 1994  7   356.51
 CGO 1994  8   356.98
 CGO 1994  9   357.13
-CGO 1994 10   357.20
+CGO 1994 10   357.21
 CGO 1994 11   357.22
 CGO 1994 12   357.15
 CGO 1995  1   357.16
 CGO 1995  2   357.31
 CGO 1995  3   357.38
-CGO 1995  4   357.46
+CGO 1995  4   357.47
 CGO 1995  5   357.69
 CGO 1995  6   358.12
 CGO 1995  7   358.62
@@ -223,7 +223,7 @@ CGO 1997  1   360.16
 CGO 1997  2   360.28
 CGO 1997  3   360.47
 CGO 1997  4   360.56
-CGO 1997  5   360.75
+CGO 1997  5   360.74
 CGO 1997  6   361.00
 CGO 1997  7   361.37
 CGO 1997  8   361.75
@@ -245,7 +245,7 @@ CGO 1998 11   364.94
 CGO 1998 12   364.93
 CGO 1999  1   365.03
 CGO 1999  2   365.05
-CGO 1999  3   364.93
+CGO 1999  3   364.92
 CGO 1999  4   364.94
 CGO 1999  5   365.13
 CGO 1999  6   365.39
@@ -255,12 +255,12 @@ CGO 1999  9   366.44
 CGO 1999 10   366.51
 CGO 1999 11   366.51
 CGO 1999 12   366.52
-CGO 2000  1   366.48
+CGO 2000  1   366.49
 CGO 2000  2   366.32
 CGO 2000  3   366.23
 CGO 2000  4   366.27
 CGO 2000  5   366.32
-CGO 2000  6   366.63
+CGO 2000  6   366.62
 CGO 2000  7   367.11
 CGO 2000  8   367.42
 CGO 2000  9   367.58
@@ -290,8 +290,8 @@ CGO 2002  8   371.51
 CGO 2002  9   371.77
 CGO 2002 10   371.84
 CGO 2002 11   371.72
-CGO 2002 12   371.58
-CGO 2003  1   371.54
+CGO 2002 12   371.57
+CGO 2003  1   371.55
 CGO 2003  2   371.73
 CGO 2003  3   371.90
 CGO 2003  4   372.07
@@ -309,7 +309,7 @@ CGO 2004  3   373.83
 CGO 2004  4   373.91
 CGO 2004  5   374.26
 CGO 2004  6   374.66
-CGO 2004  7   375.04
+CGO 2004  7   375.05
 CGO 2004  8   375.46
 CGO 2004  9   375.56
 CGO 2004 10   375.55
@@ -332,14 +332,14 @@ CGO 2006  2   377.82
 CGO 2006  3   377.75
 CGO 2006  4   378.08
 CGO 2006  5   378.21
-CGO 2006  6   378.28
+CGO 2006  6   378.27
 CGO 2006  7   378.75
 CGO 2006  8   379.22
 CGO 2006  9   379.39
 CGO 2006 10   379.44
 CGO 2006 11   379.52
 CGO 2006 12   379.41
-CGO 2007  1   379.23
+CGO 2007  1   379.24
 CGO 2007  2   379.27
 CGO 2007  3   379.45
 CGO 2007  4   379.65
@@ -353,7 +353,7 @@ CGO 2007 11   381.65
 CGO 2007 12   381.65
 CGO 2008  1   381.69
 CGO 2008  2   381.81
-CGO 2008  3   381.81
+CGO 2008  3   381.80
 CGO 2008  4   381.79
 CGO 2008  5   381.92
 CGO 2008  6   382.36
@@ -385,7 +385,7 @@ CGO 2010  7   386.32
 CGO 2010  8   387.03
 CGO 2010  9   387.39
 CGO 2010 10   387.40
-CGO 2010 11   387.35
+CGO 2010 11   387.36
 CGO 2010 12   387.06
 CGO 2011  1   386.96
 CGO 2011  2   386.95
@@ -393,28 +393,28 @@ CGO 2011  3   387.00
 CGO 2011  4   387.19
 CGO 2011  5   387.31
 CGO 2011  6   387.74
-CGO 2011  7   388.20
-CGO 2011  8   388.56
-CGO 2011  9   389.03
-CGO 2011 10   389.10
+CGO 2011  7   388.21
+CGO 2011  8   388.57
+CGO 2011  9   389.02
+CGO 2011 10   389.11
 CGO 2011 11   388.95
 CGO 2011 12   388.87
 CGO 2012  1   388.76
 CGO 2012  2   388.73
 CGO 2012  3   388.77
-CGO 2012  4   388.97
+CGO 2012  4   388.98
 CGO 2012  5   389.21
 CGO 2012  6   389.63
-CGO 2012  7   390.26
+CGO 2012  7   390.27
 CGO 2012  8   390.90
-CGO 2012  9   391.25
+CGO 2012  9   391.24
 CGO 2012 10   391.27
 CGO 2012 11   391.12
 CGO 2012 12   391.03
 CGO 2013  1   391.15
 CGO 2013  2   391.50
 CGO 2013  3   391.76
-CGO 2013  4   391.89
+CGO 2013  4   391.90
 CGO 2013  5   392.24
 CGO 2013  6   392.72
 CGO 2013  7   393.26
@@ -428,7 +428,7 @@ CGO 2014  2   393.71
 CGO 2014  3   393.74
 CGO 2014  4   393.95
 CGO 2014  5   394.21
-CGO 2014  6   394.61
+CGO 2014  6   394.60
 CGO 2014  7   395.15
 CGO 2014  8   395.61
 CGO 2014  9   395.81
@@ -442,20 +442,44 @@ CGO 2015  4   396.23
 CGO 2015  5   396.71
 CGO 2015  6   397.07
 CGO 2015  7   397.59
-CGO 2015  8   398.14
+CGO 2015  8   398.13
 CGO 2015  9   398.48
-CGO 2015 10   398.40
+CGO 2015 10   398.41
 CGO 2015 11   398.34
 CGO 2015 12   398.56
-CGO 2016  1   398.69
+CGO 2016  1   398.70
 CGO 2016  2   398.73
 CGO 2016  3   398.90
 CGO 2016  4   399.49
 CGO 2016  5   399.94
 CGO 2016  6   400.45
 CGO 2016  7   401.14
-CGO 2016  8   401.43
+CGO 2016  8   401.42
 CGO 2016  9   401.56
-CGO 2016 10   401.64
-CGO 2016 11   401.35
+CGO 2016 10   401.63
+CGO 2016 11   401.36
 CGO 2016 12   400.99
+CGO 2017  1   400.90
+CGO 2017  2   400.98
+CGO 2017  3   401.05
+CGO 2017  4   401.31
+CGO 2017  5   401.67
+CGO 2017  6   402.07
+CGO 2017  7   402.72
+CGO 2017  8   403.28
+CGO 2017  9   403.49
+CGO 2017 10   403.46
+CGO 2017 11   403.50
+CGO 2017 12   403.69
+CGO 2018  1   403.81
+CGO 2018  2   403.86
+CGO 2018  3   403.99
+CGO 2018  4   404.17
+CGO 2018  5   404.28
+CGO 2018  6   404.77
+CGO 2018  7   405.37
+CGO 2018  8   405.66
+CGO 2018  9   405.91
+CGO 2018 10   406.11
+CGO 2018 11   405.84
+CGO 2018 12   405.59
