@@ -1,7 +1,7 @@
 Content of Ares and Cefas Python Course 2020 [website](<https://ueapy.github.io/pythoncourse2019>)
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)]()
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2019-materials)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2020-materials)
 
 ## License
 
