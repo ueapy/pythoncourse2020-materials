@@ -40,6 +40,6 @@ def create_sst(region_name):
         # Black Sea
         sst = list(range(15, 25, 1))
     else:
-        raise ValueError('Input value of {} is not recognised'.format(region_name))
+        raise ValueError( f'Input value of {region_name} is not recognised')
         
     return sst
