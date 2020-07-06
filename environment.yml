@@ -9,7 +9,9 @@ dependencies:
    - numpy
    - matplotlib
    - pandas
+   - xlrd
    - cartopy=0.18
    - xarray
    - seaborn
    - netcdf4
+   - dask
