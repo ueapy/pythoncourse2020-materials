@@ -9,6 +9,7 @@ dependencies:
    - matplotlib
    - pandas
    - xlrd
+   - xlwt
    - cartopy=0.18
    - xarray
    - seaborn
